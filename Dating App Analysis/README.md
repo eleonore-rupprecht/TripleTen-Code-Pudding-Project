@@ -3,8 +3,8 @@
 ### 📊 [View the Tableau Dashboard](https://public.tableau.com/app/profile/laila.meyer7593/viz/DatingDataset_17406851585650/DataDating)
 
 ### Team Members
-- Laila  
-- Sebastian
+- Laila Meyer
+- Sebastian Pena
 - Eleonore Rupprecht  
 
 ### Project Overview
