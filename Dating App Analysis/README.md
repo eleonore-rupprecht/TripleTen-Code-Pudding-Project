@@ -3,9 +3,9 @@
 ### 📊 [View the Tableau Dashboard](https://public.tableau.com/app/profile/laila.meyer7593/viz/DatingDataset_17406851585650/DataDating)
 
 ### Team Members
-- Eleonore Varga-Rupprecht  
 - Laila  
-- Sebastian  
+- Sebastian
+- Eleonore Rupprecht  
 
 ### Project Overview
 This project analyzes dating app data provided by TripleTen. The data was cleaned and edited in Excel, then imported into Tableau for visualization and analysis. We focused on three main questions:  
