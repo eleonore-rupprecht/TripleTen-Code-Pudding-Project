@@ -1,1 +1,133 @@
 
+# Part 1. Storytelling Rules & Criteria
+
+# Turning data into a story
+
+## Step 1: Think about the story before working with data
+
+It’s better to brainstorm with your team mates on some ideas before you all start to dive into the datasets. The more your paths differ, the easier it will be to work with the data.
+
+## Step 2: Choose insights that work better for the story
+
+Sometimes you may find too many leads for juicy stories that will a) lead you to nowhere, or b) distract you from the main point. Focus on one to two insights that will become your story’s skeleton and work with them. 
+
+## Step 3: Build a structure first and make sure you have everything you need for it to work
+
+It’s important to write down your structure beforehand and discuss it with your colleagues to understand whether it’s doable. 
+
+It may happen that while you work on your visual essay, you’ll find that your story misses details or more data. In that case, you may refer to different sources — fan pages, articles, or reports. Don’t forget to cite the original.
+
+## Step 4: Think about visualizations
+
+The difference between data journalism and usual essays is that data visualization plays a key role in it. You have to find all kinds of ways to visualize the information that you find interesting — not just in charts and pies, but in entirely new, interactive forms that seem appropriate and convey the essence of the story. 
+
+## Step 5: Make your story clear and captivating
+
+Visual essays are not reports of found and sorted data. They are investigations that can be multiplied by your own personal opinion and/or the context you’re living in. Try to show it to your colleagues as raw text to gather feedback about its clarity and usefulness. 
+
+## Step 6: If there is a place for easter eggs, don’t forget them!
+
+All of the reference data stories contain easter eggs or gags — to relax and entertain readers after a massive amount of information. These are not obligatory — but let’s be honest: it’s smart or funny details that are usually well-remembered. 
+
+## Grading criteria for data storytelling (10 points max)
+
+- The story is based on provided data (5 points)
+    - No cherry-picking: you used data ethically and consciously, without any exaggerations and understatements that fit your story
+    - All conclusions should be supported by data
+- Story quality (5 points)
+    - Clear narrative
+    - Understandable context
+    - Memorability
+
+# Part 2. Rules & Criteria Data Analysis
+
+## Part 1: EDA
+
+In this stage of the project, you should decide with your team what aspect of the dataset you’d like to explore and display.
+
+You should choose one of the datasets and conduct EDA on it. Some of the datasets will require different methods of preprocessing. Keep in mind that you may need to:
+
+- Join tables
+- Remove or fill in missing values
+- Regroup data in order to focus on particular elements
+- Create new columns for analyzing the data
+
+## Part 2: Visualisation
+
+After exploring the data, you need to decide on different ways to visualize the data. Each of your visualizations should be unique. 
+
+## Part 3: Reporting Results - Presentation
+
+While visualizations are very useful for pointing out important features of a dataset, they are not sufficient for a full data analysis. The last stage of your work must be creating a presentation with the results. 
+
+You must include:
+
+- An introduction to the dataset
+    - What data do you have?
+    - What did you do?
+    - What are your major findings, briefly?
+- Explanations of visualization, explaining, giving broader context, and drawing conclusions
+- A conclusion, indicating what further explorations might be made into the dataset
+
+## Reporting results for grading
+
+Your team should submit a link to a Github public repo with all of your working materials to Arina Sitnikova. For assessing your work, there should be:
+
+- Tableau Workbook (or link to the published workbook)
+- Presentation file/link
+- Supporting documents (if any)
+
+## Grading criteria for data work (20 points max)
+
+- **Visualization use (10 points)**
+    - The team should use various ways to visualize the data
+    - Visualizations add to the story and are an integral part of it
+    - All the diagrams are described with captions and summaries
+- **Presentation with results (10 points)**
+    - The introduction sufficiently describes the data
+    - Each of the visualization descriptions fully explains the image
+    - Conclusions been drawn clearly
+    - Next steps that might be taken are indicated
+
+
+# Part 3. Presentation Rules & Criteria
+
+ 
+
+- **Presentation Instructions**
+    
+    Below are brief instructions on how you can present your project
+    
+    ▪️ **What should we talk about?**
+    
+    Remember that you are here to present your entire work. We **suggest** the following flow of the presentation:
+    
+    1. Introduction  
+        1. Introduce yourselves 
+        2. Tell us about the project you’ve been working on in general
+    2. Main part 
+        1. Tell us about the data set you’ve chosen - why do you think it is important/interesting
+        2. Tell us about the project you've created highlighting 
+            1. What main technical capabilities it has
+            2. Have you analyzed everything you wanted to? Why/why not?
+    3. Conclusion
+        1. **Teamwork.** It is not only the product but the process that matters. Please share what helped your team collaborate or about the main takeaway from this collaboration. How difficult or easy was to collaborate with your teammates? What was the most valuable in your collaboration? Is there anything you’d like to continue working on in future?
+    
+    ▪️ **How much time do you have?** You will have 7-10 minutes for your presentation. 
+    
+    ▪️ **How should we prepare?** We suggest that you practice it aloud at least once! It will help you ensure that you stay within the time limit and make you more confident when speaking to the public.
+    
+    ▪️**Who should present?** It is up to your team to decide. However, it is a good practice to share logical parts of the presentation between different people.
+    
+- **Tips for a good presentation**
+    - **Figure out what is your audience is interested in.** Put yourself in your audience's shoes and try to see the project the way they would. What would they be most interested to learn about the project?
+    - **Focus on what's unique**. Try to answer the question: What makes our project stand out? The answer to your questions can serve as a key idea in your presentation.
+    - **Focus on one key point instead of ten random ideas**. Pick one major idea and, at most, two three supporting ideas. Less is more - you'll be better off sharing the essentials than wasting time on trifles.
+    - **Repeat the central idea at least three times.** State it in the introduction, elaborate on it in the main part, and mention it in the conclusion.
+    - **It's better to intrigue than to overwhelm**. Don't try to share everything your product can do. Show the most interesting features and leave your audience interested in exploring the rest for themselves.
+    - **Process matters.** Your key idea or insights may be about the process, not the end result. If something is interesting, unique, or just curious about how you did the work - talk about it! Opening up about the process makes you or your team seem more reliable and trustworthy to the audience.
+- **Presentation assessment criteria (20 points)**
+    - **Key ideas are clearly communicated** and **key features of the project are shown -** I understand what is unique about the project, key findings, or insights that the team came to, I've seen the main features during the presentation (5 points)
+    - **Clear structure -** I can distinguish between the *Introduction*, the *Main Part* and the *Conclusion* (5 points)
+    - **Interesting and engaging delivery** - It was pleasant to listen to the presentation, I'd like to have a link and spend some time learning more about the project, I'd like to work with this team / hire the team (5 points)
+    - **Timing** - The presentation was within the given time limit of 7 mins (5 points)
