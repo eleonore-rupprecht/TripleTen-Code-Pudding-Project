@@ -1,4 +1,116 @@
 
+
+# Part 1. Storytelling Rules & Criteria
+
+## Turning data into a story
+
+### Step 1: Think about the story before working with data
+It’s better to brainstorm with your teammates on some ideas before diving into the datasets. Differing paths will make it easier to work with the data.
+
+### Step 2: Choose insights that work better for the story
+Focus on one or two insights that will become your story’s skeleton. Avoid too many leads that lead nowhere or distract from the main point.
+
+### Step 3: Build a structure first and make sure you have everything you need for it to work
+Write down your structure beforehand and discuss it with your colleagues. If your story misses details or more data, refer to different sources like fan pages, articles, or reports.
+
+### Step 4: Think about visualizations
+Data visualization plays a key role in data journalism. Find all kinds of ways to visualize the information that you find interesting.
+
+### Step 5: Make your story clear and captivating
+Visual essays are investigations that can be multiplied by your own personal opinion and/or the context you’re living in. Show it to your colleagues for feedback.
+
+### Step 6: If there is a place for easter eggs, don’t forget them!
+Reference data stories often contain easter eggs or gags to relax and entertain readers after a lot of information. These are not obligatory but can be smart and engaging.
+
+## Grading criteria for data storytelling (10 points max)
+
+- **The story is based on provided data (5 points)**
+  - No cherry-picking: use data ethically and consciously, without exaggerations or understatements
+  - All conclusions should be supported by data
+- **Story quality (5 points)**
+  - Clear narrative
+  - Understandable context
+  - Memorability
+
+---
+
+# Part 2. Rules & Criteria for Data Analysis
+
+## Part 1: Exploratory Data Analysis (EDA)
+Decide with your team what aspect of the dataset you’d like to explore and display. Choose one of the datasets and conduct EDA on it. You may need to:
+- Join tables
+- Remove or fill in missing values
+- Regroup data to focus on particular elements
+- Create new columns for analyzing the data
+
+## Part 2: Visualization
+Decide on different ways to visualize the data after exploring it. Each of your visualizations should be unique.
+
+## Part 3: Reporting Results - Presentation
+Create a presentation with:
+- An introduction to the dataset
+  - What data do you have?
+  - What did you do?
+  - What are your major findings, briefly?
+- Explanations of visualizations, giving broader context, and drawing conclusions
+- A conclusion indicating what further explorations might be made into the dataset
+
+## Reporting results for grading
+Submit a link to a public GitHub repo with all of your working materials for assessment. Include:
+- Tableau Workbook (or link to the published workbook)
+- Presentation file/link
+- Supporting documents (if any)
+
+## Grading criteria for data work (20 points max)
+- **Visualization use (10 points)**
+  - Use various ways to visualize the data
+  - Visualizations add to the story and are an integral part of it
+  - All diagrams are described with captions and summaries
+
+- **Presentation with results (10 points)**
+  - The introduction sufficiently describes the data
+  - Each visualization description fully explains the image
+  - Conclusions are drawn clearly
+  - Indicate next steps that might be taken
+
+---
+
+# Part 3. Presentation Rules & Criteria
+
+## Presentation Instructions
+### What should we talk about?
+Present your entire work with the following flow:
+1. **Introduction**
+   - Introduce yourselves
+   - Tell us about the project in general
+2. **Main part**
+   - Discuss the dataset you chose and why it is important/interesting
+   - Highlight the main technical capabilities and whether you analyzed everything you wanted to
+3. **Conclusion**
+   - Discuss teamwork, collaboration, and any main takeaways from working together
+
+### How much time do you have?
+You will have 7-10 minutes for your presentation.
+
+### How should we prepare?
+Practice the presentation aloud at least once to ensure you stay within the time limit and gain confidence.
+
+### Who should present?
+It is up to your team to decide. Share logical parts of the presentation between different people.
+
+## Tips for a good presentation
+- **Figure out what your audience is interested in.** See the project from their perspective.
+- **Focus on what's unique.** Highlight what makes your project stand out.
+- **Focus on one key point instead of many.** Share the essentials.
+- **Repeat the central idea at least three times.** State it in the introduction, main part, and conclusion.
+- **Intrigue rather than overwhelm.** Show interesting features and leave the audience wanting more.
+- **Process matters.** Talk about interesting, unique, or curious aspects of your work process.
+
+## Presentation assessment criteria (20 points)
+- **Key ideas are clearly communicated** and **key features of the project are shown.** (5 points)
+- **Clear structure.** Distinguish between the Introduction, Main Part, and Conclusion. (5 points)
+- **Interesting and engaging delivery.** Make the presentation pleasant and engaging. (5 points)
+- **Timing.** Stay within the given time limit of 7 minutes. (5 points)
 # Part 1. Storytelling Rules & Criteria
 
 # Turning data into a story
